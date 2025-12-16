@@ -12,6 +12,7 @@ The objective of this project is to identify customers at high risk of churn usi
 ## 🎯 Business Objective
 
 Predict whether a customer is likely to churn in a defined future time window.
+
 Prioritize churn recall over accuracy to minimize missed at-risk customers.
 
 Provide probability-based churn scores instead of rigid binary predictions
@@ -28,17 +29,23 @@ Gold: Analytics-ready customer behavior tables
 
 ### SQL Exploratory Analysis
 Customer behavior trends
+
 Purchase frequency and recency analysis
+
 Advanced queries using CTEs and window functions
 
 ### Business Dashboard (Power BI)
 Sales and customer KPIs
+
 Customer segmentation
+
 Churn indicators for stakeholders
 
 ### Machine Learning (Python)
 Feature engineering
+
 Churn modeling
+
 Evaluation and threshold tuning
 
 📂 Repository Structure
