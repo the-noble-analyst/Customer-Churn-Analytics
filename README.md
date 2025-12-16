@@ -111,7 +111,7 @@ Customer-Churn-Analytics/
 │   ├── 13_report_products.sql
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🛠️ Tools & Technologies
