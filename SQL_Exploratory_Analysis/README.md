@@ -45,3 +45,5 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 [![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
 [![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+
+## Note: This folder is included as a learning foundation. The churn modeling, machine learning, and BI components in the root project are original extensions
