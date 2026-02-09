@@ -211,8 +211,16 @@ This project demonstrates how combining data warehousing, analytics, and machine
 
 ---
 
-## 📝 License
+## Credits and Attribution
 
+The data warehouse and SQL exploratory analysis components in this repository are based on an educational data warehouse project by Data With Baraa and are used for learning and extension purposes.
+All churn modeling, feature engineering, machine learning, Power BI dashboards, and business insights are original work implemented as part of this project.
+
+
+## 📝 License
+This repository is licensed under the MIT License for original code, analysis, machine learning models, and visualizations authored in this project.
+
+Certain folders contain educational material credited to their original author and are included strictly for learning and extension purposes. Those components follow their respective usage terms as noted in their local README files.
 
 
 ## 🤝 Contributing
